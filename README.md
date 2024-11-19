@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan-satone" alt="chetan-satone" /></a> </p>
 
-- 🌱 I’m currently learning **DevO9ps, Ethical hacking**
+- 🌱 I’m currently learning **AWS, DevOps, Ethical hacking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chetan-Satone](https://github.com/Chetan-Satone)
 
