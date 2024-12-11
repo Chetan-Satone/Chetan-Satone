@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chetan Satone</h1>
-<h3 align="center">A passionate Cybersecurity Analyst from India</h3>
+<h3 align="center">I am currently studying PG DITISS at CDAC, Bangalore
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-satone&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-satone" /> </p>
 
