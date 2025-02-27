@@ -2,7 +2,7 @@
 <h3 align="center">
 </h3>
 
-- 🌱 I’m currently learning **AWS, DevOps, Ethical hacking**
+- 🌱 I’m currently learning **AWS, DevOps and Ethical hacking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chetan-Satone](https://github.com/Chetan-Satone)
 
